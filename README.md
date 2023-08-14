@@ -1,8 +1,8 @@
 # paperReading
 
 - [x] MetaGpt
+- [x] generative agents
+- [ ] replknet
 - [ ] autogpt
 - [ ] React
-- [ ] Cot
-- [ ] Reflexion
-- [ ] ToolFormer
+- [x] Cot
