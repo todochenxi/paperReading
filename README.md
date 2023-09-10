@@ -7,5 +7,5 @@
 - [x] glm
 - [ ] replknet
 - [ ] autogpt
-- [ ] React
+- [x] React
 - [x] Cot
